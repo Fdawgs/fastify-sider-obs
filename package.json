@@ -1,6 +1,6 @@
 {
   "name": "ydh-sider-obfuscation-service",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "description": "Yeovil District Hospital NHSFT's SIDeR Contextual Link Obfuscation Service",
   "main": "src/app.js",
   "repository": "git+https://github.com/Fdawgs/ydh-sider-obfuscation-service.git",

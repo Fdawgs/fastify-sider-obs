@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [2.3.5](https://www.github.com/Fdawgs/ydh-sider-obfuscation-service/compare/v2.3.4...v2.3.5) (2021-03-08)
+
+
+### Miscellaneous
+
+* **workflows:** rename ci and perf sections ([83478bc](https://www.github.com/Fdawgs/ydh-sider-obfuscation-service/commit/83478bc713267a97a78bf9277f5de1703f935cfe))
+
 ### [2.3.4](https://www.github.com/Fdawgs/ydh-sider-obfuscation-service/compare/v2.3.3...v2.3.4) (2021-03-03)
 
 
